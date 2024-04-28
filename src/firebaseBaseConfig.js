@@ -1,5 +1,5 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAwR_WCLK2e_x5NK_I2yCdSNnJQC1rPxL8",
+    apiKey: "AIzaSyAwR_WCLK2e_x5NK_I2yCdSNnJQC1rPxL8v757",
     authDomain: "easy-consulting-react.firebaseapp.com",
     projectId: "easy-consulting-react",
     storageBucket: "easy-consulting-react.appspot.com",
